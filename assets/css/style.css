@@ -32,6 +32,14 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.trbutton{
+  background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
