@@ -6960,12 +6960,39 @@
 
       <script>
         function Aryo() {
-          document.getElementById("Aryo").setAttribute("hidden", "false");
-          document.getElementById("Farhan").setAttribute("hidden", "false");
-          document.getElementById("Azhar").setAttribute("hidden", "false");
-          document.getElementById("Farhan").setAttribute("hidden", "false");
-          document.getElementById("Alvin").setAttribute("hidden", "false");
-          document.getElementById("Roy").setAttribute("hidden", "false");
+          document.getElementById("Aryo").removeAttribute("hidden", "true");
+          document.getElementById("Farhan").setAttribute("hidden", "true");
+          document.getElementById("Azhar").setAttribute("hidden", "true");
+          document.getElementById("Alvin").setAttribute("hidden", "true");
+          document.getElementById("Roy").setAttribute("hidden", "true");
+        }
+        function Farhan() {
+          document.getElementById("Aryo").setAttribute("hidden", "true");
+          document.getElementById("Farhan").removeAttribute("hidden", "true");
+          document.getElementById("Azhar").setAttribute("hidden", "true");
+          document.getElementById("Alvin").setAttribute("hidden", "true");
+          document.getElementById("Roy").setAttribute("hidden", "true");
+        }
+        function Azhar() {
+          document.getElementById("Aryo").setAttribute("hidden", "true");
+          document.getElementById("Farhan").setAttribute("hidden", "true");
+          document.getElementById("Azhar").removeAttribute("hidden", "true");
+          document.getElementById("Alvin").setAttribute("hidden", "true");
+          document.getElementById("Roy").setAttribute("hidden", "true");
+        }
+        function Alvin() {
+          document.getElementById("Aryo").setAttribute("hidden", "true");
+          document.getElementById("Farhan").setAttribute("hidden", "true");
+          document.getElementById("Azhar").setAttribute("hidden", "true");
+          document.getElementById("Alvin").removeAttribute("hidden", "true");
+          document.getElementById("Roy").setAttribute("hidden", "true");
+        }
+        function Roy() {
+          document.getElementById("Aryo").setAttribute("hidden", "true");
+          document.getElementById("Farhan").setAttribute("hidden", "true");
+          document.getElementById("Azhar").setAttribute("hidden", "true");
+          document.getElementById("Alvin").setAttribute("hidden", "true");
+          document.getElementById("Roy").removeAttribute("hidden", "true");
         }
       </script>
     </main>
