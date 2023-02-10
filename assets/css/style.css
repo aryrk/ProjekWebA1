@@ -39,6 +39,7 @@ h6 {
     cursor: pointer;
     overflow: hidden;
     outline: none;
+    width: 50%;
 }
 /*--------------------------------------------------------------
 # Back to top button
