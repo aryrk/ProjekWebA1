@@ -81,13 +81,17 @@
         <div class="section-title">
           <h2>Data Tokopedia</h2>
           <p>
-            Berikut merupakan data produk tokopedia
+            Berikut merupakan data produk tokopedia dengan kategori ultrabook, diambil dari = 
+            <a href="https://www.tokopedia.com/p/komputer-laptop/laptop/ultrabook">https://www.tokopedia.com/p/komputer-laptop/laptop/ultrabook</a>
           </p>
         </div>
       </div>
-      <div id="tokped" style="margin-left: 50px; margin-right: 50px;">
-        <!-- INI YANG BAKAL JADI JSONNYA GUYS -->
-      </div>
+      <center>
+        <div class="row ms-5 me-5" id="tokped">
+
+        </div>
+      </center>
+
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
       <style>
         .tokpedJudul {
@@ -102,17 +106,14 @@
 
           //mengambil data dari file json
           $.getJSON('ultrabook.json', function (soup) {
-            var str = "<table border=1>";
-            str += "<tr><td>No</td><td>Nama Produk</td><td>diskon</td><td>Lokasi</td><td>Penjual</td></tr>";
+            var str = "";
             $.each(soup, function (n, result) {
-              str += "<td class='tables'>" + result.id + "</td>";
-              str += "<td class='tokpedJudul'>" + result.produk + "</td>";
-              str += "<td class='tables'> <u>" + result.hargasebelumdiskon + "</u> -> " + result.hargasetelahdiskon + " [" + result.diskon + "]</td>";
-              str += "<td class='tables'>" + result.tempattoko + "</td>";
-              str += "<td class='tables'>" + result.namatoko + "</td>";
-              str += "</tr>";
+              str += "<div class='col-sm-2 mb-4'><div class='card h-100'><div class='card-body'>";
+              str += "<h6 class='h6'>" + result.produk + "</h6><hr>";
+              str += "<p>" + result.hargasetelahdiskon + "<br>" + result.tempattoko + "<br>" + result.namatoko + "</p>";
+              str += "<a href='" + result.link + "' class='btn btn-primary btn-sm btn-block w-100'>Beli</a>";
+              str += "</div></div></div>";
             });
-            str += "</table>";
             $('#tokped').html(str);
           });
         });
