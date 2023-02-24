@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "ULTRABOOK DELL LATITUDE 7300 i7-8650 / 16GB RAM / SSS 512GB NVME/ IPS",
+        "diskon": "4%",
+        "harga sebelum diskon": "Rp7.950.000",
+        "harga setelah diskon": "Rp3.850.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 2,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "LAPTOP XIAOMI REDMI BOOK 15 I3 1115G4 8GB 256SSD W10 15.6FHD",
+        "diskon": "19%",
+        "harga sebelum diskon": "Rp16.500.000",
+        "harga setelah diskon": "Rp4.725.000",
+        "tempat toko": "Kab. Kediri",
+        "nama toko": "CV. PAHALA KOMPUTER"
+    },
+    {
+        "id": 3,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "THINKPAD X1 CARBON i7-8650 GEN 8 TOUCH/ 16GB RAM / 512GB NVME/ IPS FHD",
+        "diskon": "18%",
+        "harga sebelum diskon": "Rp14.999.000",
+        "harga setelah diskon": "Rp7.632.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 4,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "THINKPAD X280 i5-8350 GEN 8 TOUCH / 16GB RAM / FHD IPS/ GARANSI 2022 - 8GB - 128GB SSD",
+        "diskon": "30%",
+        "harga sebelum diskon": "Rp3.499.000",
+        "harga setelah diskon": "Rp3.700.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 5,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "FUULSET ULTRABOOK THINKPAD X280 i5-7300 /RAM 8GB /SSD 512GB /HD",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp2.950.000",
+        "harga setelah diskon": "Rp2.950.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 6,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "[RESMI IBOX] Apple MacBook Air M1 Chip 2020 256GB 8GB Garansi resmi",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp13.299.000",
+        "harga setelah diskon": "Rp13.299.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "tokoJBC"
+    },
+    {
+        "id": 7,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "Lenovo Thinkpad X270 Touchscreen Core i5 Gen6 8/256GB Ultrabook Mulus",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp2.400.000",
+        "harga setelah diskon": "Rp2.400.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "Electro_Com"
+    },
+    {
+        "id": 8,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "Macbook Pro M1 Pro Max 2021 1TB 512GB SSD 16\" & 14\" Inch RAM 32GB 16GB",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp27.180.000",
+        "harga setelah diskon": "Rp27.180.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Studio Ponsel"
+    },
+    {
+        "id": 9,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ASUS Vivobook Pro 15 OLED M6500QC RYZEN 5 5600H 16GB 512SSD RTX3050",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp12.369.000",
+        "harga setelah diskon": "Rp12.369.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "AMD Official Store"
+    },
+    {
+        "id": 10,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop Murah Xiaomi Redmibook 15 i3-1115G4 8GB 256GB FHD INTEL W10",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp2.450.000",
+        "harga setelah diskon": "Rp2.450.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Onestop Gaming"
+    },
+    {
+        "id": 11,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "DELL LATITUDE 7300 I5-8350U/ 32GB RAM/ 512GB SSD/ FHD IPS / BACKLIGHT",
+        "diskon": "48%",
+        "harga sebelum diskon": "Rp14.099.900",
+        "harga setelah diskon": "Rp3.700.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Nengdaraspeed"
+    },
+    {
+        "id": 12,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop Lenovo Yoga 370 Core i5 Gen 7-Ram 8Gb-Ssd 256Gb ( Touchscreen )",
+        "diskon": "39%",
+        "harga sebelum diskon": "Rp20.499.000",
+        "harga setelah diskon": "Rp3.800.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "Kaito's Corner"
+    },
+    {
+        "id": 13,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ULTRABOOK DELL LATITUDE 7300 i5-8365U /32GB RAM /512GB SSD /FHD IPS",
+        "diskon": "15%",
+        "harga sebelum diskon": "Rp10.389.000",
+        "harga setelah diskon": "Rp3.750.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Dara speed comp"
+    },
+    {
+        "id": 14,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop Lenovo Thinkpad X280 Core i7 8650u RAM 16GB SSD Win 10 Original",
+        "diskon": "28%",
+        "harga sebelum diskon": "Rp6.299.000",
+        "harga setelah diskon": "Rp4.399.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "Specialist Laptop Second"
+    },
+    {
+        "id": 15,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Lenovo Thinkpad E14 Intel core i5-1135G7 Ram 16 GB/512 SSD",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp7.299.900",
+        "harga setelah diskon": "Rp7.299.900",
+        "tempat toko": "Tangerang",
+        "nama toko": "cahaya pamong"
+    },
+    {
+        "id": 16,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "HP PAVILION AERO 13 RYZEN 7 5825 16GB 512SSD VEGA8 WiIN 11 13.3FHD IPS",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp11.249.000",
+        "harga setelah diskon": "Rp11.249.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "Deca Computer"
+    },
+    {
+        "id": 17,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "ACER SWIFT 3 OLED - I5 12500H 16GB 512GB IRISXE W11 14\" 2.8K 100DCIP3",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp12.479.000",
+        "harga setelah diskon": "Rp12.479.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "Intel Store ID"
+    },
+    {
+        "id": 18,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "ASUS VIVOBOOK PRO 14X M3400QA RYZEN 5 5600H 16GB 512SSD W11+OHS 14-2.8",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp8.839.000",
+        "harga setelah diskon": "Rp8.839.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "EnVicStore"
+    },
+    {
+        "id": 19,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop i3 INFINIX X1 I3 1005G1 8GB 256SSD W10 14.0FHD IPS 100SRGB",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp4.519.000",
+        "harga setelah diskon": "Rp4.519.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "ALIENWARE OFFICIAL ID"
+    },
+    {
+        "id": 20,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "MacBook Air M1 2021 13.3\" 256 GB - 512 GB Space Gray - Gold - Silver",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp13.399.999",
+        "harga setelah diskon": "Rp13.399.999",
+        "tempat toko": "Surabaya",
+        "nama toko": "Apple International"
+    },
+    {
+        "id": 21,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "laptop lenovo x250 core i 3 5010u ram8gb ssd 256gb",
+        "diskon": "13%",
+        "harga sebelum diskon": "Rp26.999.000",
+        "harga setelah diskon": "Rp2.590.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "LANGKAT JAYA COMPUTER"
+    },
+    {
+        "id": 22,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "Laptop Lenovo Thinkpad P52s Core i7 8650u RAM 32GB SSD Nvidia Quadro",
+        "diskon": "14%",
+        "harga sebelum diskon": "Rp15.599.000",
+        "harga setelah diskon": "Rp8.199.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "Specialist Laptop Second"
+    },
+    {
+        "id": 23,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "ULTRABOOK DELL 7390 I7-8650/RAM 16GB/SSD 512GB/FHD IPS/THUNDERBOLT",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp4.750.000",
+        "harga setelah diskon": "Rp4.750.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Nengdaraspeed"
+    },
+    {
+        "id": 24,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "FULLSET THINKPAD X280 I5-8350 8TH GEN/8GB RAM/SSD 512GB/MULUS - 128GB SSD",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp3.300.000",
+        "harga setelah diskon": "Rp3.300.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "TNS Speed Comp"
+    },
+    {
+        "id": 25,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ULTRABOOK DELL 7390 i7-8650U / 16GB RAM / SSD 256GB / THUNDERBOLT/ FHD",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp5.050.000",
+        "harga setelah diskon": "Rp5.050.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 26,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ASUS Zenbook 14X OLED SPACE EDITION UX5401ZAS i7-12700H 16G 1TB 4K W11",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp23.599.000",
+        "harga setelah diskon": "Rp23.599.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Collins Official"
+    },
+    {
+        "id": 27,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "HUAWEI MATEBOOK D14 CORE I3 RAM 8/256 GB GARANSI RESMI TERMURAH",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp7.053.100",
+        "harga setelah diskon": "Rp7.053.100",
+        "tempat toko": "Surabaya",
+        "nama toko": "Hapemall.id"
+    },
+    {
+        "id": 28,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Asus Vivobook Pro 14X OLED M7400QE/RTX3050TI Ryzen 5-5600H/16GB/512SSD",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp13.449.000",
+        "harga setelah diskon": "Rp13.449.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "AGRES ID"
+    },
+    {
+        "id": 29,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "Apple Macbook Air 13 2020 MGN93ID - Silver [Apple M1-8GB-256GB-MacOS]",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp13.499.000",
+        "harga setelah diskon": "Rp13.499.000",
+        "tempat toko": "Yogyakarta",
+        "nama toko": "ELS Computer"
+    },
+    {
+        "id": 30,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "MACBOOK AIR 13 INCI 15 MID2017 1,8ghz RAM 8 GB 128GB-2017/15 128GB C",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp5.300.000",
+        "harga setelah diskon": "Rp5.300.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "Clopz Tech"
+    },
+    {
+        "id": 31,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "MacBook Air 2017 Core i5 Ram 8GB SSD 256GB 13.3 inch Intel HD Graphics",
+        "diskon": "11%",
+        "harga sebelum diskon": "Rp20.999.000",
+        "harga setelah diskon": "Rp7.500.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "STARK COM"
+    },
+    {
+        "id": 32,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop Lenovo Thinkpad T460s Core i7 6600u 8GB SSD 480GB Full HD IPS",
+        "diskon": "14%",
+        "harga sebelum diskon": "Rp21.999.000",
+        "harga setelah diskon": "Rp4.299.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "Specialist Laptop Second"
+    },
+    {
+        "id": 33,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ULTRABOOK DELL LATITUDE 7300 i5-8365 /32GB RAM / SSD 512GB NVME / IPS - 8GB-128GB SSD",
+        "diskon": "24%",
+        "harga sebelum diskon": "Rp19.999.000",
+        "harga setelah diskon": "Rp3.750.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "TNS Speed Comp"
+    },
+    {
+        "id": 34,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ULTRABOOK DELL 7390 i7-8650u/ 16GB RAM / SSD 256GB /THUNDERBOLT/IPS - 8GB- 128GB SSD",
+        "diskon": "30%",
+        "harga sebelum diskon": "Rp3.499.000",
+        "harga setelah diskon": "Rp4.850.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 35,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "APPLE Macbook Air M2 IBOX (8GB/256GB/1Y/13.6\") -Midnight [MLY33ID/A]",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp18.749.000",
+        "harga setelah diskon": "Rp18.749.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "RAJA IT OFFICIAL STORE"
+    },
+    {
+        "id": 36,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "laptop touchscreen Hp Envy 13 2022 Evo i5 1135G716GB 1TB Ssd 13\" Touch",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp10.399.000",
+        "harga setelah diskon": "Rp10.399.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "INCOMTECH.ID"
+    },
+    {
+        "id": 37,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "Lenovo Yoga Slim 7i Carbon Touch i7 1260P 16GB 1TBSSD 13.3 2.5K 08ID",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp18.949.000",
+        "harga setelah diskon": "Rp18.949.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "Lenovo Yoga Official"
+    },
+    {
+        "id": 38,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "Apple MacBook Pro 2020 CPO M1 Chip 8GB 13 inch GRAY SILVER",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp15.199.000",
+        "harga setelah diskon": "Rp15.199.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Distributor Laptop ID"
+    },
+    {
+        "id": 39,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Lenovo Thinkpad L380 Yoga 2 in 1 Core i5 - i7 Gen 8th Super Murah",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp3.800.000",
+        "harga setelah diskon": "Rp3.800.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Laptop Street"
+    },
+    {
+        "id": 40,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Laptop Slim Asus E210MAO intel N4020 4GB 256SSD 11,6\" W10 OHS",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp2.450.000",
+        "harga setelah diskon": "Rp2.450.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Onestop Gaming"
+    },
+    {
+        "id": 41,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "Lenovo Thinkpad X1 Carbon 6TH Core i7 8650U 16GB SSD 512GB TOUCHSCREEN - 16GB SSD 256GB",
+        "diskon": "7%",
+        "harga sebelum diskon": "Rp5.700.000",
+        "harga setelah diskon": "Rp8.000.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "STARK COM"
+    },
+    {
+        "id": 42,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "THINKPAD T480S i7-8650U / RAM 16GB / SSD 256GB / FHD IPS - 8GB -128GB SSD",
+        "diskon": "12%",
+        "harga sebelum diskon": "Rp20.149.000",
+        "harga setelah diskon": "Rp5.301.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Dara speed comp"
+    },
+    {
+        "id": 43,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "THINKPAD X280 i5-8350 GEN 8 TOUCH / 16GB RAM /512GB/ FHD IPS/ BACKLITE",
+        "diskon": "26%",
+        "harga sebelum diskon": "Rp11.999.000",
+        "harga setelah diskon": "Rp4.350.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 44,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Lenovo Thinkpad T470s Core i7 7600U 8GB SSD 256GB Touchscreen US KEY",
+        "diskon": "28%",
+        "harga sebelum diskon": "Rp16.499.000",
+        "harga setelah diskon": "Rp6.150.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "STARK COM"
+    },
+    {
+        "id": 45,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "THINKPAD X280 i7-8650 GEN 8/16GB RAM /1TB SSD/BACKLITE/THUNDERBOLT/IPS",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp4.300.000",
+        "harga setelah diskon": "Rp4.300.000",
+        "tempat toko": "Kab. Bogor",
+        "nama toko": "Ari speed comp"
+    },
+    {
+        "id": 46,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "Lenovo Yoga Slim 7i Pro 14IAP7 Core i7-1260P 16GB 512GB SSD W11 OHS",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp17.699.000",
+        "harga setelah diskon": "Rp17.699.000",
+        "tempat toko": "Jakarta Pusat",
+        "nama toko": "Lenovo Official"
+    },
+    {
+        "id": 47,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "ASUS VIVOBOOK PRO 14X OLED M3400QA RYZEN 5-5600H 8GB 512GB 14\"2.8K W11",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp8.849.000",
+        "harga setelah diskon": "Rp8.849.000",
+        "tempat toko": "Jakarta Barat",
+        "nama toko": "WE iTech"
+    },
+    {
+        "id": 48,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/4fede911.svg",
+        "produk": "INFINIX INBOOK X1 14 inch IPS Core i3 Ram 8GB SSD 256G NVME - RESMI",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp5.495.000",
+        "harga setelah diskon": "Rp5.495.000",
+        "tempat toko": "Malang",
+        "nama toko": "Dry-nEh gadget"
+    },
+    {
+        "id": 49,
+        "gambar": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6d3a4c5b.svg",
+        "produk": "Lenovo Thinkpad L14 Gen2 i5 1135G7 8GB 512SSD 14\" FHD Windows 10 Pro",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp11.799.000",
+        "harga setelah diskon": "Rp11.799.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "Thinkpad Official Store"
+    },
+    {
+        "id": 50,
+        "gambar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAQAAACTbf5ZAAAAiklEQVR42u3PMQEAAAwCoNm/9Cr4Cw3IjYmwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsHDrASUpAHnJhbktAAAAAElFTkSuQmCC",
+        "produk": "ASUS VIVOBOOK PRO 15 K3500PC OLED754 I7 11370H 16GB 512SSD RTX3050 4GB",
+        "diskon": "0%",
+        "harga sebelum diskon": "Rp14.949.000",
+        "harga setelah diskon": "Rp14.949.000",
+        "tempat toko": "Jakarta Utara",
+        "nama toko": "ALIENWARE OFFICIAL"
+    }
+]
