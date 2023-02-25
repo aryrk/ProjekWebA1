@@ -110,7 +110,7 @@
             $.each(soup, function (n, result) {
               str += "<div class='col-sm-2 mb-4'><div class='card h-100'><div class='card-body'>";
               str += "<h6 class='h6'>" + result.produk + "</h6><hr>";
-              str += "<p>" + result.hargasetelahdiskon + "<br>" + result.tempattoko + "<br>" + result.namatoko + "</p>";
+              str += "<p>" + result.hargasetelahdiskon + "<br>" + result.tempattoko + "<br>" + result.namatoko + "<br>"+result.time+"</p>";
               str += "<a href='" + result.link + "' class='btn btn-primary btn-sm btn-block w-100'>Beli</a>";
               str += "</div></div></div>";
             });

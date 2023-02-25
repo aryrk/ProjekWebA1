@@ -1,6 +1,9 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+from datetime import date
+
+today = date.today()
 maxPage = 6
 
 headers = {
@@ -44,6 +47,7 @@ for page_num in range(1, maxPage):  # ambil data dari 5 halaman awal
              "tempattoko": infoToko[j].text.strip(),
              "namatoko": infoToko[j+1].text.strip(),
              "link": button[i].attrs['href'],
+             "time": today.strftime("%d/%m/%Y"),
              }
         )
         j += 2
