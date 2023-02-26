@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="assets/css/cardBerita.css" rel="stylesheet" />
+  </head>
+
+  <!--  Thanks to frontendmentor.io for the challenge.  -->
+
+  <body>
+    <div class="bg">
+      <h1>Berita</h1>
+    </div>
+    <section class="container" id="Teknologi"></section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+      $(function () {
+        //mengambil data dari file json
+        $.getJSON("Scrapping63.json", function (soup) {
+          var str = "";
+          $.each(soup, function (n, result) {
+            str+="<div class='nft'>";
+            str+="  <div class='main'>";
+            str+="    <img";
+            str+="      class='tokenImage'";
+            str+="      src='"+result.Image+"'";
+            str+="      alt='NFT'";
+            str+="    />";
+            str+="    <h2>"+result.Judul+"</h2>";
+            str+="    <p class='description'>"+result.Kategori+"</p>";
+            str+="    <div class='tokenInfo'>";
+            str+="      <div class='price'>";
+            str+="        <p>"+result.Deksripsi+"</p>";
+            str+="      </div>";
+            str+="      <div class='duration'>";
+            str+="        <ins>◷</ins>";
+            str+="        <p>"+result.Published+"</p>";
+            str+="      </div>";
+            str+="    </div>";
+            str+="    <hr />";
+            str+="    <div class='creator'>";
+            str+="      <div class='wrapper'>";
+            str+="        <img";
+            str+="          src='"+result.ImageAuthor+"'";
+            str+="          alt='Creator'";
+            str+="        />";
+            str+="      </div>";
+            str+="      <p>";
+            str+="        <ins>Penulis:</ins> "+result.Author+"";
+            str+="      </p>";
+            str+="    </div>";
+            str+="  </div>";
+            str+="</div>";
+            
+          });
+          $("#Teknologi").html(str);
+        });
+      });
+    </script>
+
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+      $(function () {
+        //mengambil data dari file json
+        $.getJSON("beritacopy.json", function (soup) {
+          var str = "<div class='nft'>";
+          $.each(soup, function (n, result) {
+            str += "<div class='main'>";
+            str +=
+              "<img class='tokenImage' src='" +
+              result.Image +
+              "' alt='NFT' />";
+            str += "<h2>" + result.Judul + "</h2>";
+            str += "<p class='description'>" + result.Deskripsi + "</p>";
+            // str += "<div class='tokenInfo'>"ININYA"<div class='price'>";
+            // str += "<ins>◘</ins><p>kategori</p>";
+            str += "</div>";
+            str +=
+              "<div class='duration'><ins>◷</ins><p>" +
+              result.Published +
+              "</p>";
+            str += "</div></div>";
+            str += "<hr />";
+            str += "<div class='creator'><div class='wrapper'>";
+            str +=
+              "<img src='https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80' alt='Creator' />";
+            str += "</div>";
+            str += "<p><ins>Penulis:</ins>" + result.Author + "</p>";
+            str += "</div></div></div>";//Awikwok, waduh, ss cik say gabisa akses
+          });
+          $("#Teknologi").html(str); // ta
+        });
+      });
+    </script> -->
+  </body>
+</html>
